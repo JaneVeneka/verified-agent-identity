@@ -10,7 +10,7 @@ on:
       agent_description:
         description: 'zendev'
         required: true
-        default: 'zendev AI Agent'
+        default: 'finder AI Agent'
 
 jobs:
   verify:
